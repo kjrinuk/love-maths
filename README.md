@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome Keith Richards,
 
 This is the Javascript walkthrough project for Code Institute  **June 18, 2024**
 
